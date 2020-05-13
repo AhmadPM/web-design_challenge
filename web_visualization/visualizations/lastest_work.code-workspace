@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\Web\\bootstrap\\11.3.7\\solved"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web_visualization"
+	}
+}
